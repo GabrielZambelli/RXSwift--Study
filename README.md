@@ -1,5 +1,5 @@
 # RXSwift--Study
-Projects for study RxSwift referente ao livro:
+Projects for study RxSwift referring to the book:
 
 - RxSwift: Reactive Programming with Swift
 
