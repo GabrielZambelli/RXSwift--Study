@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E5418D44-5F6B-414F-8CDE-BCB0CE122CCF"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6F56CDA5-8B1E-42F1-A32C-A159BB99A538"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OurPlanet/CategoriesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "startDownload()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6F56CDA5-8B1E-42F1-A32C-A159BB99A538 - da0dec77dc6d8035"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; () in OurPlanet.CategoriesViewController.startDownload() -&gt; ()"
+                  moduleName = "OurPlanet"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vntgali/Desktop/Material%20Estudo/RxSwift_Reactive_Programming_with_Swift_v4.0.0/10-combining-operators-in-practice/challenge/challenge1/OurPlanet/OurPlanet/CategoriesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "139">
+               </Location>
+               <Location
+                  uuid = "6F56CDA5-8B1E-42F1-A32C-A159BB99A538 - 26dd26fe5ce821a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #3 () -&gt; () in OurPlanet.CategoriesViewController.startDownload() -&gt; ()"
+                  moduleName = "OurPlanet"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vntgali/Desktop/Material%20Estudo/RxSwift_Reactive_Programming_with_Swift_v4.0.0/10-combining-operators-in-practice/challenge/challenge1/OurPlanet/OurPlanet/CategoriesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
